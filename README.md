@@ -1,5 +1,30 @@
 # Goldman Sachs Operations Virtual Experience Program
 
+<p>
+  <img src="https://img.shields.io/badge/Program-Goldman%20Sachs%20Operations-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
+---
+
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Task 1: Controllers Division – Semester Budget Exercise](#task-1-controllers-division--semester-budget-exercise)
+  - [What You'll Learn](#what-youll-learn)
+  - [What You'll Do](#what-youll-do)
+  - [Deliverables](#deliverables)
+- [Task 2: Asset & Wealth Management – Fund NAV Calculation](#task-2-asset--wealth-management--fund-nav-calculation)
+  - [What You'll Learn](#what-youll-learn-1)
+  - [What You'll Do](#what-youll-do-1)
+  - [Deliverables](#deliverables-1)
+- [Repository Structure](#repository-structure)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Author](#author)
+
+---
+
 ## Overview
 This repository contains the deliverables from the Goldman Sachs Operations Virtual Experience Program, focusing on two key areas within the firm:
 
